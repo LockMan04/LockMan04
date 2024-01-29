@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=LockMan04&style=for-the-badge&color=brightgreen&label=Hello)
 # Welcome Bro 
 ## ****Information****
 > Facebook: [La Thanh Toàn](https://www.facebook.com/lt.toan207)
