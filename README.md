@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanh Toan</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A student from Vietnam</h3>
 
 ![](https://komarev.com/ghpvc/?username=LockMan04&style=for-the-badge&color=brightgreen&label=Profile%20View)
 
