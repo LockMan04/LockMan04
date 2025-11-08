@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [My blog](https://github.com/LockMan04/myblog)
 
-- 👨‍💻 All of my projects are available at [https://lockman.id.vn](https://lockman.id.vn)
+- 👨‍💻 All of my projects are available at [https://lockman.dev](https://lockman.dev)
 
 - 📝 I regularly write articles on [Comming soon,...](Comming soon,...)
 
