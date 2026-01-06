@@ -38,5 +38,4 @@ Interested in how systems think, break, and scale.
 
 ## Fun fact
 Lives in terminal more than GUI.
-
 ```
